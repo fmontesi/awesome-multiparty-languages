@@ -1,2 +1,7 @@
-# awesome-multiparty-languages
-A curated list of resources on multiparty languages.
+# Awesome Multiparty Languages [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of papers and resources on multiparty languages.
+
+# Choreographic Programming
+
+# Multitier Programming
